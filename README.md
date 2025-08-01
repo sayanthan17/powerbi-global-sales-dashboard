@@ -23,6 +23,12 @@ An end-to-end Power BI project analyzing 2020–2022 sales data across multiple 
 - DAX for custom measures  
 - Excel / CSV for raw data management  
 
+## Dashboard 
+<img width="1279" height="721" alt="image" src="https://github.com/user-attachments/assets/6c2025b8-ddc9-4c89-9a2c-fafe9adbe534" />
+
+## Data & Tables
+<img width="1491" height="694" alt="image" src="https://github.com/user-attachments/assets/1e47cdc5-d538-4332-9250-71fcb8b31b5c" />
+
 ## Author
 
 Sayanthan Nakulanathan  
